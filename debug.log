@@ -1,3 +1,10 @@
 [0118/145501.573:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Acesso negado. (0x5)
 [0118/145501.720:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
 [0118/145501.728:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Acesso negado. (0x5)
+[0118/181748.077:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Acesso negado. (0x5)
+[0118/181748.077:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0118/181748.108:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0118/181748.124:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Acesso negado. (0x5)
+[0118/183951.956:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Acesso negado. (0x5)
+[0118/183951.987:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0118/183951.987:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Acesso negado. (0x5)

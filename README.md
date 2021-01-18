@@ -1,3 +1,7 @@
+instalação e configuração do eslint e do babel
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
