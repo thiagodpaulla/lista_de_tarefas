@@ -11,3 +11,6 @@
 [0120/082738.423:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Acesso negado. (0x5)
 [0120/082738.483:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
 [0120/082738.490:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Acesso negado. (0x5)
+[0120/180048.361:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Acesso negado. (0x5)
+[0120/180048.376:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0120/180048.392:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Acesso negado. (0x5)
